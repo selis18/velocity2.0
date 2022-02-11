@@ -1,0 +1,10 @@
+.header__menu__text__home{
+    margin: 0 40px 0 0;
+    padding: 0;
+    text-decoration: none;
+    color: #676770;
+}
+
+.header__menu__text__home:hover{
+    color: #0082F3;
+}

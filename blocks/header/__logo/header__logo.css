@@ -1,0 +1,11 @@
+.header__logo{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 1;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding: 11px 0 0 0;
+    color: #69B9FF;
+}
