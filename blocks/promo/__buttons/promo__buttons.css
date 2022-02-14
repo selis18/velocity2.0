@@ -1,0 +1,6 @@
+.promo__buttons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 107px 0 0 0;
+}

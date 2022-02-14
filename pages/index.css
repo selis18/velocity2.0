@@ -1,0 +1,13 @@
+@import url("../node_modules/normalize.css/normalize.css");
+
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__menu/header__menu.css");
+@import url("../blocks/header/__menu/__text/header__menu__text.css");
+@import url("../blocks/header/__menu/__text/__button/header__menu__text__button.css");
+
+@import url("../blocks/promo/promo.css");
+@import url("../blocks/promo/__title/promo__title.css");
+@import url("../blocks/promo/__buttons/promo__buttons.css");
+@import url("../blocks/promo/__buttons/__sing/promo__buttons__sing.css");
+@import url("../blocks/promo/__buttons/__learn/promo__buttons__learn.css");

@@ -1,0 +1,9 @@
+.promo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    height: 594px;
+    background: url('../../image/promo.jpg') no-repeat;
+    background-size: 100%;
+}

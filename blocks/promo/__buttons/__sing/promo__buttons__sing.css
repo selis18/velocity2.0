@@ -1,0 +1,18 @@
+.promo__buttons__sing{
+    width: 147px;
+    height: 45px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.31;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    background: #69B9FF;
+    border: 0;
+    border-radius: 4px;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0) !important;
+}

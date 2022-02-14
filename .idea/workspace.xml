@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="29347aa8-654e-4188-b722-c05cacae062c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/promo/__buttons/__learn/promo__buttons__learn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/promo/__buttons/__sing/promo__buttons__sing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/promo/__buttons/promo__buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/promo/__title/promo__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/promo/promo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/promo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu/__text/__contact/header__menu__text__contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu/__text/__button/header__menu__text__button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu/__text/__home/header_menu_text_home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu/__text/header__menu__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu/__text/header__menu__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/promo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +50,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24k2ZY70vjWWTOykJpBzUT6oJF0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -54,11 +86,33 @@
       <workItem from="1644571127950" duration="2303000" />
       <workItem from="1644573762301" duration="243000" />
       <workItem from="1644574257633" duration="249000" />
+      <workItem from="1644656405099" duration="1002000" />
+      <workItem from="1644677910954" duration="9000" />
+      <workItem from="1644729911424" duration="639000" />
+      <workItem from="1644730586516" duration="981000" />
+      <workItem from="1644733161412" duration="8000" />
+      <workItem from="1644737492641" duration="2591000" />
+      <workItem from="1644819493216" duration="3914000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644569661745">
